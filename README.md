@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋, I'm Manojkumar</h1>
+<h2 align="center">Hi there 👋, I'm Manojkumar</h2>
 
 #### A passionate Mobile & Web app developer from India
 ![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png)
