@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/codemub/codemub/blob/main/github%20banner.jpg"  />
+  <img height="200" src="https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png"  />
 </div>
 
 ###
