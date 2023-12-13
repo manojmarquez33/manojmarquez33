@@ -22,11 +22,10 @@
 
 <h1 align="center">Hi there 👋, I'm Manojkumar</h1>
 
-###
+#### A passionate Mobile & Web app developer from India
+![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png)
 
-<div align="center">
-  <img height="100" src="https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png"  />
-</div>
+
 
 ###
 
