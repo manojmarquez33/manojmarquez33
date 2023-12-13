@@ -1,5 +1,9 @@
 <div align="center">
+
+
+
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <h2 align="center">Hi there 👋, I'm Manojkumar</h2>
 </div>
 
 ###
@@ -18,9 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manojmarquez33.manojmarquez33&"  />
 </div>
 
-###
 
-<h2 align="center">Hi there 👋, I'm Manojkumar</h2>
 
 #### A passionate Mobile & Web app developer from India
 ![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png)
