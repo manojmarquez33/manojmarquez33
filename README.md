@@ -25,15 +25,13 @@
 
 
 #### A passionate Mobile & Web app developer from India
-![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/Manojkumar-banner.png)
+![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/linked%20in%20banner.png)
 
 
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <br clear="both">
 
