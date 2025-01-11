@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on KCET E- Canteen Management<br>🌱 I’m currently learning Flutter<br>👯 I’m interested in collaborating with others<br>👨‍💻 All of my projects are available at https://manoj.codemub.com<br>📝 I regularly write articles on http://blog.codemub.com<br>💬 Feel free to ask me anything<br>📫 How to reach me manoj17kumar10@gmail.com<br>⚡ Fun fact I have a good sense of humor!</p>
+<p align="left">🔭 I’m currently working on KCET Route Map Project<br>🌱 I’m currently learning React<br>👯 I’m interested in collaborating with others<br>👨‍💻 All of my projects are available at https://manojkumar.xyz/<br>📝 I regularly write articles on https://codemub.blogspot.com/<br>💬 Feel free to ask me anything<br>📫 How to reach me manoj17kumar10@gmail.com<br>⚡ Fun fact I have a good sense of humor!</p>
 
 ###
 
