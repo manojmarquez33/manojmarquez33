@@ -1,107 +1,245 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Manojkumar&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20%26%20Mobile%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 
+<img src="https://github.com/manojmarquez33/manojmarquez33/blob/main/manojkumar.png" width="150" alt="Manojkumar Profile Picture" />
 
-  <img height="150" src="https://github.com/manojmarquez33/manojmarquez33/blob/main/manojkumar.png"  />
-  <h2 align="center">Hi there 👋, I'm Manojkumar</h2>
+<h1>Hi 👋, I'm Manojkumar</h1>
+
+<h3>Software Engineer • Web Developer • Mobile App Developer</h3>
+
+<p>
+I build modern, scalable and user-focused applications.
+</p>
+
+<a href="https://manomar.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/manojkumar1710">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:manoj17kumar10@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://codemub.blogspot.com/">
+<img src="https://img.shields.io/badge/Blog-CodeMub-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manojmarquez33&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const manoj = {
+  name: "Manojkumar",
+  role: "Software Engineer",
+  location: "🇮🇳 India",
+  currently: {
+    working: "Modern Web Applications",
+    learning: ["JavaScript", "React", "TypeScript"],
+    exploring: ["AI", "System Design", "Cloud"]
+  },
+  stack: {
+    frontend: ["HTML", "CSS", "JavaScript", "Vue", "React"],
+    backend: ["Laravel", "PHP", "Node"],
+    mobile: ["Flutter", "Dart"],
+    database: "MySQL",
+    tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"]
+  },
+
+  interests: ["Web", "Mobile", "Backend", "Open Source", "AI"],
+  motto: "Code • Learn • Build • Repeat 🚀"
+};
+```
+
+---
+
+## 🚀 What I'm Currently Doing
+
+* 💻 Working as a **Software Engineer**
+
+* ⚙️ Building and maintaining modern web applications
+
+* 🔄 Modernizing legacy applications using **Vue.js + Laravel**
+
+* 📊 Working with financial reporting systems and complex SQL queries
+
+* 🌱 Improving my **JavaScript → React → TypeScript** skills
+
+* 📱 Experienced in building mobile applications using **Flutter**
+
+* 🤝 Interested in collaborating on interesting software projects
+
+* ✍️ Writing programming and technology articles on my blog
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,java,dart" />
+
+</p>
+
+### Frontend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,react,vite" />
+
+</p>
+
+### Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,php" />
+
+</p>
+
+### Mobile Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+</p>
+
+### Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker" />
+
+</p>
+
+---
+
+<td width="50%">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+<p align="center">
+
+Modern developer portfolio showcasing my experience, technical skills, projects and software engineering journey.
+
+</p>
+
+<p align="center">
+
+<a href="https://manomar.netlify.app/">
+
+<img src="https://img.shields.io/badge/View_Project-Portfolio-8B5CF6?style=for-the-badge" />
+
+</a>
+
+</p>
+
+
+
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/manojkumar1710" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojmarquez33&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojmarquez33&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=manojmarquez33.manojmarquez33&"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojmarquez33&theme=tokyonight" width="100%"/>
+
 </div>
 
+---
 
-
-#### A passionate Mobile & Web app developer from India
-![A passionate Mobile and Web app developer from India](https://github.com/manojmarquez33/manojmarquez33/blob/main/linked%20in%20banner.png)
-
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<br clear="both">
-
-<p align="left">🔭 I’m currently working on KCET Route Map Project<br>🌱 I’m currently learning React<br>👯 I’m interested in collaborating with others<br>👨‍💻 All of my projects are available at https://manojkumar.xyz/<br>📝 I regularly write articles on https://codemub.blogspot.com/<br>💬 Feel free to ask me anything<br>📫 How to reach me manoj17kumar10@gmail.com<br>⚡ Fun fact I have a good sense of humor!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect with me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/manojmarquez33">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://in.linkedin.com/in/manojkumar1710">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://stackoverflow.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
-  </a>
-  <a href="https://twitter.com/manojmarquez33">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100047857774348">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://www.youtube.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manojmarquez33&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=manojmarquez33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manojmarquez33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojmarquez33&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 </div>
 
-###
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/manojmarquez33"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manojmarquez33" /></a></p><br><br>
+---
+
+---
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manojkumar1710" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/manojmarquez33" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/manojmarquez33" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:manoj17kumar10@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+</a>
+
+</div>
+
+## ☕ Support My Work
+
+If you find my projects or articles helpful, you can support my work.
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/manojmarquez33">
+
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Manojkumar a Coffee" />
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Code • Build • Learn • Improve
+
+<p>
+Thanks for visiting my GitHub profile.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" />
+
+</div>
